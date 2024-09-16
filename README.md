@@ -17,7 +17,16 @@
             padding: 10px;
             text-align: center;
             border-bottom: 2px solid #00FF00; /* Bright green border */
+        
         }
+
+┏┳┓┏┓┳┓┏┓┳┳
+ ┃ ┣ ┃┃┃┓┃┃
+ ┻ ┗┛┛┗┗┛┗┛
+           
+
+
+
 
         h1 {
             margin: 0;
