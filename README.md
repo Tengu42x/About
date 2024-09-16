@@ -69,6 +69,8 @@
   | |  |  __| | . ` || | __ | | | |/ /_| |  / /   /   \ 
   | |  | |___ | |\  || |_\ \| |_| |\___  |./ /___/ /^\ \
   \_/  \____/ \_| \_/ \____/ \___/     |_/\_____/\/   \/
+        With passion for low resource computing and 
+        a passion for mergin tech between eras. 
     </header>
     <nav>
         <a href="#">Home</a>
